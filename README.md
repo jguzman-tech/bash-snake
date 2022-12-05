@@ -13,7 +13,9 @@ Example invocation:
 ./snake.sh 2>/dev/null
 ```
 
-Here's a gif of me playing the game.
+Here's a gif of me playing the game:
+
+![bash-snake demo (GIF)](./snake-demo.gif)
 
 # Future Work
 1. implementing a menu that lets you adjust the speed of the game, possibly controls too
